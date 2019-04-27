@@ -1,5 +1,5 @@
 <?php
-public function recaptchaV3(){
+function recaptchaV3(){
 	$recaptcha_response = $_POST["recaptcha_response"];
 	$recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
 	$recaptcha_secret = "key_between_your_site_and_reCAPTCHA";

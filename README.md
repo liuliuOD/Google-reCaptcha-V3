@@ -3,7 +3,7 @@ You can learn how to use reCaptcha v3 on your website.
 
 Using curl to send a request.
 
-## File in each side
+## File in each side :
 ### Client side : frontEnd.html, frontEnd.js
 ### Server side : backEnd.php
 
